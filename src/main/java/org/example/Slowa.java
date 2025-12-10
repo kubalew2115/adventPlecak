@@ -16,6 +16,7 @@ public class Slowa {
         String p1 = pol1(s);
         String p2 = pol2(s);
 
+
         for (int i = 0; i < p1.length(); i++) {
             for (int j = 0; j < p2.length(); j++) {
                 if (p1.charAt(i) == p2.charAt(j)) {
