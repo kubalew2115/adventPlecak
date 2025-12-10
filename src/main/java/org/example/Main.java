@@ -15,6 +15,7 @@ public class Main {
         plecaki.add("ttgJtRGJQctTZtZT");
         plecaki.add("CrZsJsPPZsGzwwsLwLmpwMDw");
 
+
         int wynik = slowa.suma(plecaki);
         System.out.println("Wynik: " + wynik);
     }
