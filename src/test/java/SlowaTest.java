@@ -51,7 +51,6 @@ public class SlowaTest {
                 "ttgJtRGJQctTZtZT",
                 "CrZsJsPPZsGzwwsLwLmpwMDw"
         );
-
         assertEquals(157, s.suma(plecaki));
     }
 }
